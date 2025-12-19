@@ -5,4 +5,4 @@
 
 **MIT App Inventor**
 ### Archivos
-- 'MoodTrackerAppMJM.pdf': Archivo con las imágenes de la interfaz de la aplicación y los bloques de programación.
+- 'MoodTrackerAppMJM.pdf': Archivo con las imágenes de la interfaz del diseño, los bloques de programación y la interfaz de la aplicación.
